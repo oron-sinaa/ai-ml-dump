@@ -5,6 +5,8 @@ All I explore, find or learn about Machine Learning.
 
 ## Prerequisites and Prework:
 
+(https://developers.google.com/machine-learning/crash-course/prereqs-and-prework)
+
 Before beginning Machine Learning Crash Course, do the following:
 
     If you're new to machine learning, take Introduction to Machine Learning Problem Framing. This one-hour self-study course teaches you how to identify appropriate problems for machine learning.
