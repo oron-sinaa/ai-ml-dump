@@ -4,9 +4,6 @@ All I explore, find or learn about Machine Learning.
 <br>
 
 ## Prerequisites and Prework:
----
-
-## Prework
 
 Before beginning Machine Learning Crash Course, do the following:
 
