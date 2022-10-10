@@ -1,10 +1,12 @@
 # ai-ml-dump
 All I explore, find or learn about Machine Learning.
 
-## Prerequisites and prework:
+<br>
 
-"""
-Prework
+## Prerequisites and Prework:
+---
+
+## Prework
 
 Before beginning Machine Learning Crash Course, do the following:
 
@@ -77,4 +79,3 @@ To run the programming exercises on your local machine or in a cloud console, yo
     Bash Reference Manual
     Bash Cheatsheet
     Learn Shell
-"""
